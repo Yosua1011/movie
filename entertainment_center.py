@@ -11,5 +11,6 @@ ratatouille = media.Movie("Ratatouille", "A mouse who dreamed to be a chef", "ht
 
 movies = [toy_story, avatar, the_founder, ratatouille]
 #fresh_tomatoes.open_movies_page(movies)
-print (media.Movie.VALID_RATINGS)
+#print (media.Movie.VALID_RATINGS)
+print(media.Movie.__doc__)
 
